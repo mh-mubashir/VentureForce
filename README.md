@@ -45,8 +45,6 @@ This is an ongoing project with plans to expand the framework with additional ag
 
 - **Legal Agent**: For legal documentation, compliance, and risk assessment
 - **Technical Team**: For developing and deploying full stack applications
-- **UI/UX Agent**: For designing user-friendly interfaces based on requirements
-- **Financial Team**: For budget planning, forecasting, and financial strategies
 - **Project Manager Agent**: For coordinating all agents and ensuring effective collaboration
 
 ## Usage
